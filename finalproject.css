@@ -1,1 +1,229 @@
+@ms-viewport {
+ width: device-width;
+}
 
+/*page header*/ 
+h1#midtermsite-title {
+ color: blue;
+ font-family: Calibri;
+ font-size: 50px;
+ font-style: italic;
+ width: 75%;
+ text-align: center;
+ margin-bottom: 5px;
+ }
+
+h2#midtermsite-subtitle {
+ color: green;
+ font-family: Kristen ITC; /*this font mimics the FOPAL fun logo*/
+ font-size: 25px;
+ font-style: italic;
+ width: 75%;
+ text-align: center;
+ margin-bottom: 7px;
+ }
+
+figure.header-catandbooks img {
+ float: right;
+ max-width: 30%;
+ height: auto;
+ margin-left: 30px; /*35%*/
+ margin-top: 0px;
+ margin-right: 40px;
+ margin-bottom: 50px;
+ /*border: 3px solid black; design choice to remove*/
+ padding: 5px;
+}
+
+figure.main-catandbooks img {
+  float: right;
+  max-width: 25%;
+  height: auto;
+  margin-left: 30px;
+  margin-right: 40px;
+  margin-top: 50px;
+  margin-bottom: 35px;
+  /*border: 3px solid black; design choice to remove*/
+  padding: 5px;
+}
+
+figure.sale-room-map img {
+ max-width: 50%;
+ height: auto;
+ padding: 5px;
+}
+
+/*need class to do this with less code*/ 
+h1 {
+ font-family: Calibri;
+ font-size: 25px;
+ font-style: italic;
+ width: 75%;
+ }
+
+h2 {
+ font-family: Calibri;
+ font-size: 25px;
+ font-style: italic;
+ width: 75%;
+ }
+
+h3 {
+ font-family: Calibri;
+ font-size: 25px;
+ font-style: italic;
+ width: 75%;
+ }
+
+h4 {
+ font-family: Calibri;
+ font-size: 25px;
+ font-style: italic;
+ width: 75%;
+ }
+
+h5 {
+ font-family: Calibri;
+ font-size: 25px;
+ font-style: italic;
+ width: 75%;
+ }
+
+h6 {
+ font-family: Calibri;
+ font-size: 25px;
+ font-style: italic;
+ width: 75%;
+ }
+
+header p {
+ font-family: Calibri;
+ font-size: 20px;
+ width: 75%;
+ /*background: lightyellow;*/
+ margin-top: 15px;
+ /*margin-left: 35px;*/
+ /*text-align: left;*/
+}
+
+p {
+  font-family: Calibri;
+  font-size: 20px;
+  width: 75%;
+  /*background: lightyellow;*/
+  margin-top: 15px;
+}
+
+/*styling for the top menu elements*/
+.menu-items {
+ width: 1000px;
+ display: flex;
+ justify-content: flex-start;
+ gap: 60px;
+ font-weight: bold;
+ background-color: #fff000;
+ list-style: none;
+ padding: 0;
+ border-top: 2px solid blue;
+ border-bottom: 2px solid blue;
+ margin-left: 35px;
+ margin-bottom: 35px;
+}
+
+.menu-items .menu-items-opt {
+ padding: 5px;
+}
+
+.menu-items .menu-items-opt a {
+ /*font-weight: bold;*/
+ color: blue;
+ text-decoration: none;
+ font-family: Calibri;
+}
+
+.menu-items .menu-items-opt .home a {
+ background-color: green;
+}
+
+.menu-items .menu-items-opt a:hover {
+ text-decoration: underline;
+}
+
+/*styling for the footer elements*/
+footer nav ul {
+ width: 1000px;
+ display: flex;
+ justify-content: flex-start;
+ gap: 60px;
+ background-color: #fff000;
+ list-style: none;
+ padding: 0;
+ border-top: 2px solid blue;
+ border-bottom: 2px solid blue;
+ margin-left: 35px;
+ margin-top: 0px; /*this was 50*/
+}
+
+footer nav ul li a {
+  font-weight: bold;
+  color: blue;
+  text-decoration: none;
+  font-family: Calibri;
+}
+
+footer nav ul li a:hover {
+  text-decoration: underline;
+}
+
+footer#page-footer {
+  padding: 32px 0;
+  margin-top: 64px;
+  margin-left: 35px;
+  /*text-align: left;*/
+  /*background-color: yellow;*/
+  /*color: blue;*/
+}
+
+footer p {
+ font-family: Calibri;
+ font-size: 15px;
+ margin-left: 35px;
+}
+
+screenreader-text {
+ position: absolute;
+ left: -999px;
+ width: 1px;
+ height: 1px;
+ top: auto;
+}
+
+screenreader-text:focus {
+ color: black;
+ display: inline-block;
+ height: auto;
+ width: auto;
+ position: static;
+ margin: auto;
+}
+
+#welcMessage {
+  font-family: Calibri;
+  color: red;
+  background: lightyellow;
+  border: 3px solid darkgreen;
+  text-align: center;
+  padding: 20px 20px;
+  margin: 10px 0;
+  border-radius: 4px;
+  width: 25%;
+}
+
+#welcMessage button {
+  float: right;
+}
+
+body.dark-mode {
+  background: black;
+  color: white;
+}
