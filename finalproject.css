@@ -3,9 +3,11 @@
 }
 
 body {
-background-image: url("images/LogoWhippoorwillBookClub.png");
-background-repeat: repeat;
-background-color: white;
+ background-image: url("images/CloudBackground.png");
+ background-size: cover;
+ background-position: center;
+ background-repeat: no-repeat;
+ background-color: #white;
 }
 
 /*page header*/ 
