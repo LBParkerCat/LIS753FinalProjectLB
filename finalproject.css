@@ -137,11 +137,11 @@ p {
  justify-content: flex-start;
  gap: 60px;
  font-weight: bold;
- background-color: #fffab1;
+ background-color: #fffcc4; /*#fffab1;*/
  list-style: none;
  padding: 0;
- border-top: 2px solid blue;
- border-bottom: 2px solid blue;
+ border-top: 2px solid black;
+ border-bottom: 2px solid black;
  margin-left: 35px;
  margin-bottom: 35px;
 }
@@ -226,8 +226,8 @@ screenreader-text:focus {
 #welcMessage {
   font-family: Calibri;
   color: blue;
-  background: lightyellow;
-  border: 3px solid black;
+  background: #fffcc4;
+  border: 1px solid black;
   text-align: center;
   padding: 10px 10px;
   margin: 10px 0;
