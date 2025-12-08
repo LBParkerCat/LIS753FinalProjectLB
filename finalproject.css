@@ -21,12 +21,42 @@ h1#mainpage-title {
  margin-bottom: 5px;
  }
 
+h1#aboutpage-title {
+ color: #00008B;
+ font-family: Calibri;
+ font-size: 50px;
+ font-style: italic;
+ width: 75%;
+ text-align: center;
+ margin-bottom: 5px;
+ }
+
+h1#greatestpage-title {
+ color: #00008B;
+ font-family: Calibri;
+ font-size: 50px;
+ font-style: italic;
+ width: 75%;
+ text-align: center;
+ margin-bottom: 5px;
+ }
+
+h1#obocpage-title {
+ color: #00008B;
+ font-family: Calibri;
+ font-size: 50px;
+ font-style: italic;
+ width: 75%;
+ text-align: center;
+ margin-bottom: 5px;
+ }
+
 h1#mainpage-title img {
  /*float: right;*/
- max-width: 10%;
+ max-width: 7%;
  height: auto;
  margin-left: 25px;
- padding: 5px;
+ padding: 0px;
 }
 
 h2#page-subtitle {
