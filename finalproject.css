@@ -33,7 +33,7 @@ h2#midtermsite-subtitle {
 
 figure.LogoWBC img {
  float: right;
- max-width: 20%;
+ max-width: 10%;
  height: auto;
  margin-left: 25px;
  padding: 5px;
@@ -173,11 +173,11 @@ footer nav ul {
  gap: 60px;
  background-color: #fffcc4;
  list-style: none;
- padding: 0;
- border-top: 2px solid blue;
- border-bottom: 2px solid blue;
+ padding: 5px;
+ border-top: 2px solid black;
+ border-bottom: 2px solid black;
  margin-left: 35px;
- margin-top: 0px; /*this was 50*/
+ margin-top: 0px;
 }
 
 footer nav ul li a {
