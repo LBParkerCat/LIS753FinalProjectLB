@@ -31,13 +31,20 @@ h2#midtermsite-subtitle {
  margin-bottom: 7px;
  }
 
-figure.LogoWBC img {
- /*float: right;*/
+.header img {
+  float: right;
+  width: 100px;
+  height: 100px;
+  background: #555;
+}
+
+/*figure.LogoWBC img {
+ float: right;
  max-width: 10%;
  height: auto;
  margin-left: 25px;
  padding: 5px;
-}
+}*/
 
 figure.header-catandbooks img {
  float: right;
