@@ -22,11 +22,11 @@ h1#mainpage-title {
  }
 
 h1#mainpage-title img {
- /*float: right;*/
+ float: left;
  max-width: 7%;
  height: auto;
  margin-left: 25px;
- margin-right: 25px;
+ margin-right: 50px;
  padding: 0px;
 }
 
