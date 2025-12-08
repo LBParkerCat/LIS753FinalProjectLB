@@ -137,7 +137,7 @@ p {
  justify-content: flex-start;
  gap: 60px;
  font-weight: bold;
- background-color: #fff000;
+ background-color: #fffab1;
  list-style: none;
  padding: 0;
  border-top: 2px solid blue;
@@ -171,7 +171,7 @@ footer nav ul {
  display: flex;
  justify-content: flex-start;
  gap: 60px;
- background-color: #fff000;
+ background-color: #fffcc4;
  list-style: none;
  padding: 0;
  border-top: 2px solid blue;
@@ -227,7 +227,7 @@ screenreader-text:focus {
   font-family: Calibri;
   color: blue;
   background: lightyellow;
-  border: 3px solid darkpink;
+  border: 3px solid black;
   text-align: center;
   padding: 10px 10px;
   margin: 10px 0;
