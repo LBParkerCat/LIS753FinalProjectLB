@@ -31,6 +31,14 @@ h2#midtermsite-subtitle {
  margin-bottom: 7px;
  }
 
+figure.LogoWBC img {
+ float: right;
+ max-width: 20%;
+ height: auto;
+ margin-left: 25px;
+ padding: 5px;
+}
+
 figure.header-catandbooks img {
  float: right;
  max-width: 30%;
