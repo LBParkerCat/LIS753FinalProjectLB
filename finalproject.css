@@ -70,6 +70,18 @@ figure.main-catandbooks img {
   padding: 5px;
 }
 
+figure.CirceDustJacket img {
+  float: right;
+  max-width: 25%;
+  height: auto;
+  margin-left: 30px;
+  margin-right: 40px;
+  margin-top: 50px;
+  margin-bottom: 35px;
+  /*border: 3px solid black; design choice to remove*/
+  padding: 5px;
+}
+
 figure.sale-room-map img {
  max-width: 50%;
  height: auto;
