@@ -21,6 +21,14 @@ h1#mainpage-title {
  margin-bottom: 5px;
  }
 
+h1#mainpage-title img {
+ /*float: right;*/
+ max-width: 10%;
+ height: auto;
+ margin-left: 25px;
+ padding: 5px;
+}
+
 h2#page-subtitle {
  color: #008B8B;
  font-family: Kristen ITC; /*this is a fun font*/
@@ -31,7 +39,7 @@ h2#page-subtitle {
  margin-bottom: 7px;
  }
 
-.header img {
+/*.header img {
   float: left;
   width: 100px;
   height: 100px;
@@ -42,7 +50,7 @@ h2#page-subtitle {
   position: relative;
   top: 18px;
   left: 10px;
-}
+}*/
 
 /*figure.LogoWBC img {
  float: right;
