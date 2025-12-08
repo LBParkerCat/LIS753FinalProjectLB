@@ -217,11 +217,11 @@ screenreader-text:focus {
 
 #welcMessage {
   font-family: Calibri;
-  color: red;
+  color: blue;
   background: lightyellow;
-  border: 3px solid darkgreen;
+  border: 3px solid darkpink;
   text-align: center;
-  padding: 20px 20px;
+  padding: 10px 10px;
   margin: 10px 0;
   border-radius: 4px;
   width: 25%;
