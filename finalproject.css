@@ -72,7 +72,19 @@ figure.main-catandbooks img {
 
 figure.CirceDustJacket img {
   float: right;
-  max-width: 15%;
+  max-width: 10%;
+  height: auto;
+  margin-left: 30px;
+  margin-right: 100px;
+  margin-top: 10px;
+  margin-bottom: 35px;
+  /*border: 3px solid black; design choice to remove*/
+  padding: 5px;
+}
+
+figure.KavClayDustJacket img {
+  /*float: right;*/
+  max-width: 25%;
   height: auto;
   margin-left: 30px;
   margin-right: 50px;
@@ -84,10 +96,10 @@ figure.CirceDustJacket img {
 
 figure.LessonsDustJacket img {
   float: right;
-  max-width: 15%;
+  max-width: 10%;
   height: auto;
   margin-left: 30px;
-  margin-right: 50px;
+  margin-right: 100px;
   margin-top: 10px;
   margin-bottom: 35px;
   /*border: 3px solid black; design choice to remove*/
