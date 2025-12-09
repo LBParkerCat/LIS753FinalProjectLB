@@ -27,7 +27,8 @@ h1#mainpage-title img {
  height: auto;
  margin-left: 15px;
  margin-right: 25px;
- padding: 5px;
+ border: 2px solid #00008B;
+ padding: 0px;
 }
 
 h1#aboutuspage-title {
@@ -141,16 +142,16 @@ figure.header-catandbooks img {
  padding: 0px;
 }
 
-figure.main-catandbooks img {
+figure.dogreadingbook img {
   float: right;
   max-width: 25%;
   height: auto;
   margin-left: 30px;
-  margin-right: 40px;
+  margin-right: 100px;
   margin-top: 50px;
   margin-bottom: 35px;
-  /*border: 3px solid black; design choice to remove*/
-  padding: 5px;
+  border: 2px solid black;
+  padding: 0px;
 }
 
 figure.CirceDustJacket img {
@@ -161,8 +162,8 @@ figure.CirceDustJacket img {
   margin-right: 100px;
   margin-top: 10px;
   margin-bottom: 35px;
-  /*border: 3px solid black; design choice to remove*/
-  padding: 5px;
+  border: 2px solid black;
+  padding: 0px;
 }
 
 figure.KavClayDustJacket img {
