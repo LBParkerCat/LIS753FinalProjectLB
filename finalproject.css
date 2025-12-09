@@ -132,14 +132,14 @@ animation-iteration-count: infinite;
 
 figure.header-catandbooks img {
  float: right;
- max-width: 25%;
+ max-width: 20%;
  height: auto;
  margin-left: 30px; /*35%*/
  margin-top: 0px;
  margin-right: 150px;
  margin-bottom: 50px;
  border: 2px solid black;
- padding: 0px;
+ padding: 0px; /*I don't like padding with a border*/
 }
 
 figure.dogreadingbook img {
@@ -159,7 +159,7 @@ figure.CirceDustJacket img {
   max-width: 15%;
   height: auto;
   margin-left: 30px;
-  margin-right: 100px;
+  margin-right: 200px;
   margin-top: 10px;
   margin-bottom: 35px;
   border: 2px solid black;
@@ -174,8 +174,8 @@ figure.KavClayDustJacket img {
   margin-right: 50px;
   margin-top: 5px;
   margin-bottom: 10px;
-  /*border: 3px solid black; design choice to remove*/
-  padding: 5px;
+  border: 2px solid black;
+  padding: 0px;
 }
 
 figure.LessonsDustJacket img {
