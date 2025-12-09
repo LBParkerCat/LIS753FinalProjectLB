@@ -27,7 +27,7 @@ h1#mainpage-title img {
  height: auto;
  margin-left: 15px;
  margin-right: 25px;
- padding: 10px;
+ padding: 5px;
 }
 
 h1#aboutuspage-title {
@@ -135,10 +135,10 @@ figure.header-catandbooks img {
  height: auto;
  margin-left: 30px; /*35%*/
  margin-top: 0px;
- margin-right: 100px;
+ margin-right: 150px;
  margin-bottom: 50px;
- /*border: 3px solid black; design choice to remove*/
- padding: 5px;
+ border: 2px solid black;
+ padding: 0px;
 }
 
 figure.main-catandbooks img {
@@ -185,8 +185,8 @@ figure.LessonsDustJacket img {
   margin-right: 100px;
   margin-top: 10px;
   margin-bottom: 35px;
-  /*border: 3px solid black; design choice to remove*/
-  padding: 5px;
+  border: 2px solid black;
+  padding: 0px;
 }
 
 figure.header-helloB img {
