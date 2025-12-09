@@ -22,8 +22,8 @@ h1#mainpage-title {
  }
 
 h1#mainpage-title img {
- float: left;
- max-width: 7%;
+ /*float: left;*/
+ max-width: 9%;
  height: auto;
  margin-left: 25px;
  margin-right: 50px;
