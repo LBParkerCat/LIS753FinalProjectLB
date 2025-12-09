@@ -97,6 +97,17 @@ h2#page-subtitle {
  margin-bottom: 7px;
  }
 
+@keyframes colorChange {
+from { color: #008B8B; }
+to { color: blue; }
+}
+
+booktitleanimation {
+animation-name: colorChange;
+animation-duration: 2s;
+animation-iteration-count: infinite;
+}
+
 /*.header img {
   float: left;
   width: 100px;
