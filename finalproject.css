@@ -16,17 +16,17 @@ h1#mainpage-title {
  font-family: Calibri;
  font-size: 50px;
  font-style: italic;
- width: 75%;
+ width: 80%;
  text-align: center;
  margin-bottom: 5px;
  }
 
 h1#mainpage-title img {
  /*float: left;*/
- max-width: 7%;
+ max-width: 5%;
  height: auto;
- margin-left: 25px;
- margin-right: 50px;
+ margin-left: 15px;
+ margin-right: 25px;
  padding: 10px;
 }
 
@@ -210,7 +210,7 @@ figure.littlewomenfilm img {
   margin-top: 10px;
   margin-bottom: 35px;
   border: 3px solid black;
-  padding: 5px;
+  padding: 0px;
 }
 
 /*need class to do this with less code*/ 
@@ -307,10 +307,15 @@ p {
  text-decoration: underline;
 }
 
-main ul li a {
+main ul li {
   font-family: Calibri;
   font-size: 20px;
 }
+
+/*main ul li a {
+  font-family: Calibri;
+  font-size: 20px;
+}*/
 
 /*styling for the footer elements*/
 footer nav ul {
