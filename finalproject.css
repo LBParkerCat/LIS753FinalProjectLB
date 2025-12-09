@@ -220,6 +220,7 @@ h1 {
  font-size: 25px;
  font-style: italic;
  width: 75%;
+ margin-left: 35px;
  }
 
 h2 {
@@ -227,6 +228,7 @@ h2 {
  font-size: 25px;
  font-style: italic;
  width: 75%;
+ margin-left: 35px;
  }
 
 h3 {
@@ -234,6 +236,7 @@ h3 {
  font-size: 25px;
  font-style: italic;
  width: 75%;
+ margin-left: 35px;
  }
 
 h4 {
@@ -241,6 +244,7 @@ h4 {
  font-size: 25px;
  font-style: italic;
  width: 75%;
+ margin-left: 35px;
  }
 
 h5 {
@@ -271,7 +275,7 @@ p {
   font-size: 20px;
   width: 75%;
   margin-top: 15px;
-  margin-left: 25px;
+  margin-left: 35px;
 }
 
 /*styling for the top menu elements*/
@@ -312,6 +316,7 @@ p {
 main ul li {
   font-family: Calibri;
   font-size: 20px;
+  margin-left: 35px;
 }
 
 /*main ul li a {
