@@ -155,7 +155,7 @@ figure.main-catandbooks img {
 
 figure.CirceDustJacket img {
   float: right;
-  max-width: 10%;
+  max-width: 15%;
   height: auto;
   margin-left: 30px;
   margin-right: 100px;
@@ -167,7 +167,7 @@ figure.CirceDustJacket img {
 
 figure.KavClayDustJacket img {
   /*float: right;*/
-  max-width: 25%;
+  max-width: 15%;
   height: auto;
   margin-left: 30px;
   margin-right: 50px;
@@ -179,7 +179,7 @@ figure.KavClayDustJacket img {
 
 figure.LessonsDustJacket img {
   float: right;
-  max-width: 10%;
+  max-width: 15%;
   height: auto;
   margin-left: 30px;
   margin-right: 100px;
@@ -203,7 +203,7 @@ figure.header-helloB img {
 
 figure.littlewomenfilm img {
   float: right;
-  max-width: 40%;
+  max-width: 35%;
   height: auto;
   margin-left: 30px;
   margin-right: 100px;
@@ -211,12 +211,6 @@ figure.littlewomenfilm img {
   margin-bottom: 35px;
   /*border: 3px solid black; design choice to remove*/
   padding: 5px;
-}
-
-figure.sale-room-map img {
- max-width: 50%;
- height: auto;
- padding: 5px;
 }
 
 /*need class to do this with less code*/ 
@@ -317,7 +311,7 @@ p {
 
 main ul li a {
   font-family: Calibri;
-  font-size: 12px;
+  font-size: 20px;
 }
 
 /*styling for the footer elements*/
