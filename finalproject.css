@@ -189,6 +189,30 @@ figure.LessonsDustJacket img {
   padding: 5px;
 }
 
+figure.header-helloB img {
+  float: right;
+  max-width: 30%;
+  height: auto;
+  margin-left: 30px;
+  margin-right: 100px;
+  margin-top: 10px;
+  margin-bottom: 35px;
+  /*border: 3px solid black; design choice to remove*/
+  padding: 5px;
+}
+
+figure.littlewomenfilm img {
+  float: right;
+  max-width: 10%;
+  height: auto;
+  margin-left: 30px;
+  margin-right: 100px;
+  margin-top: 10px;
+  margin-bottom: 35px;
+  /*border: 3px solid black; design choice to remove*/
+  padding: 5px;
+}
+
 figure.sale-room-map img {
  max-width: 50%;
  height: auto;
