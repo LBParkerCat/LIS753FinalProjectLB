@@ -147,7 +147,7 @@ figure.dogreadingbook img {
   max-width: 15%;
   height: auto;
   margin-left: 30px;
-  margin-right: 100px;
+  margin-right: 150px;
   margin-top: 50px;
   margin-bottom: 35px;
   border: 2px solid black;
@@ -156,7 +156,7 @@ figure.dogreadingbook img {
 
 figure.CirceDustJacket img {
   float: right;
-  max-width: 15%;
+  max-width: 12%;
   height: auto;
   margin-left: 30px;
   margin-right: 200px;
@@ -168,7 +168,7 @@ figure.CirceDustJacket img {
 
 figure.KavClayDustJacket img {
   /*float: right;*/
-  max-width: 20%;
+  max-width: 15%;
   height: auto;
   margin-left: 30px;
   margin-right: 50px;
@@ -180,7 +180,7 @@ figure.KavClayDustJacket img {
 
 figure.LessonsDustJacket img {
   float: right;
-  max-width: 15%;
+  max-width: 12%;
   height: auto;
   margin-left: 30px;
   margin-right: 100px;
@@ -204,7 +204,7 @@ figure.header-helloB img {
 
 figure.littlewomenfilm img {
   float: right;
-  max-width: 35%;
+  max-width: 30%;
   height: auto;
   margin-left: 30px;
   margin-right: 100px;
@@ -220,7 +220,7 @@ h1 {
  font-size: 25px;
  font-style: italic;
  width: 75%;
- margin-left: 35px;
+ margin-left: 40px;
  }
 
 h2 {
@@ -228,7 +228,7 @@ h2 {
  font-size: 25px;
  font-style: italic;
  width: 75%;
- margin-left: 35px;
+ margin-left: 40px;
  }
 
 h3 {
@@ -236,7 +236,7 @@ h3 {
  font-size: 25px;
  font-style: italic;
  width: 75%;
- margin-left: 35px;
+ margin-left: 40px;
  }
 
 h4 {
@@ -244,10 +244,10 @@ h4 {
  font-size: 25px;
  font-style: italic;
  width: 75%;
- margin-left: 35px;
+ margin-left: 40px;
  }
 
-h5 {
+/*h5 {
  font-family: Calibri;
  font-size: 25px;
  font-style: italic;
@@ -259,7 +259,7 @@ h6 {
  font-size: 25px;
  font-style: italic;
  width: 75%;
- }
+ }*/
 
 header p {
  font-family: Calibri;
@@ -268,14 +268,14 @@ header p {
  margin-top: 15px;
  /*margin-left: 35px;*/
  /*text-align: left;*/
-}
+} /*I don't think I need this one, superceded by the reg p*/
 
 p {
   font-family: Calibri;
   font-size: 20px;
   width: 75%;
   margin-top: 15px;
-  margin-left: 35px;
+  margin-left: 40px;
 }
 
 /*styling for the top menu elements*/
@@ -290,7 +290,7 @@ p {
  padding: 0;
  border-top: 2px solid black;
  border-bottom: 2px solid black;
- margin-left: 35px;
+ margin-left: 40px;
  margin-bottom: 35px;
 }
 
@@ -316,7 +316,7 @@ p {
 main ul li {
   font-family: Calibri;
   font-size: 20px;
-  margin-left: 35px;
+  margin-left: 40px;
 }
 
 /*main ul li a {
@@ -335,7 +335,7 @@ footer nav ul {
  padding: 5px;
  border-top: 2px solid black;
  border-bottom: 2px solid black;
- margin-left: 35px;
+ margin-left: 40px;
  margin-top: 0px;
 }
 
@@ -353,7 +353,7 @@ footer nav ul li a:hover {
 footer#page-footer {
   padding: 32px 0;
   margin-top: 64px;
-  margin-left: 35px;
+  margin-left: 40px;
   /*text-align: left;*/
   /*background-color: yellow;*/
   /*color: blue;*/
@@ -362,7 +362,7 @@ footer#page-footer {
 footer p {
  font-family: Calibri;
  font-size: 15px;
- margin-left: 35px;
+ margin-left: 40px;
 }
 
 screenreader-text {
