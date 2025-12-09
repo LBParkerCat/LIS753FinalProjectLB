@@ -315,6 +315,10 @@ p {
  text-decoration: underline;
 }
 
+main ul li a {
+  font-family: Calibri;
+}
+
 /*styling for the footer elements*/
 footer nav ul {
  width: 1000px;
