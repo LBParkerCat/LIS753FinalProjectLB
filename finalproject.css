@@ -104,14 +104,14 @@ h2#page-subtitle {
  }
 
 @keyframes colorChange {
-from { color: #008B8B; }
-to { color: blue; }
+ from { color: #008B8B; }
+ to { color: blue; }
 }
 
-booktitleanimation {
-animation-name: colorChange;
-animation-duration: 2s;
-animation-iteration-count: infinite;
+.booktitleanimation {
+ animation-name: colorChange;
+ animation-duration: 2s;
+ animation-iteration-count: infinite;
 }
 
 /*.header img {
