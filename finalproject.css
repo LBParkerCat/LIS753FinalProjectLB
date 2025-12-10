@@ -81,10 +81,10 @@ h2#page-subtitle {
         display: flex;               /* Arrange items side-by-side */
         flex-wrap: wrap;             /* Wrap on smaller screens */
         align-items: left;
-        gap: 20px;                   /* Space between items */
-        max-width: 90% /*900px;*/
-        margin: left;                /* auto Center container */
-        padding: 10px;
+        gap: 5px;                   /* Space between items */
+        max-width: 80% /*900px;*/
+        /*margin: left; text picks up p styling?*/        
+        padding: 5px;
         /*border: 1px solid #ccc;
         border-radius: 8px;*/
         /*background-color: #f9f9f9;*/
@@ -92,7 +92,7 @@ h2#page-subtitle {
 
     /* Image styling */
     .container img {
-        max-width: 25%;
+        max-width: 35%;
         height: auto;
         border-radius: 5px;
         flex: 1 1 300px; /* Flexible width, min 300px */
