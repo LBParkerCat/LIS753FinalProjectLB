@@ -120,7 +120,7 @@ h2#page-subtitle {
 
 .booktitleanimation {
  /*animation: colorCycle 10s linear infinite;*/
- animation: colorChange 3s infinite;
+ animation: colorChange 3s linear infinite;
 }
 
 /*.header img {
