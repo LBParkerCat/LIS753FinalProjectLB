@@ -86,14 +86,14 @@ h2#page-subtitle {
         /*margin-left: 40px;*/
         margin: 0px;         
         padding: 0px;
-        /*border: 1px solid #ccc;
+        border: 1px solid #ccc
         border-radius: 8px;*/
         /*background-color: #f9f9f9;*/
     }
 
     /* Image styling */
     .container img {
-        max-width: 30%;
+        max-width: 35%;
         height: auto;
         border-radius: 5px;
         flex: 1 1 300px; /* Flexible width, min 300px */
