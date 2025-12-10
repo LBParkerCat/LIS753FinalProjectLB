@@ -93,7 +93,7 @@ h2#page-subtitle {
 
     /* Image styling */
     .container img {
-        max-width: 40%;
+        max-width: 30%;
         height: auto;
         border-radius: 5px;
         flex: 1 1 300px; /* Flexible width, min 300px */
@@ -118,7 +118,7 @@ h2#page-subtitle {
     .text-content p {
         width: auto;
         margin-top: 0px;
-        /*margin-left: 40px;*/
+        margin-left: 40px;
     }
 
 /*experimenting with text animation*/
