@@ -80,14 +80,14 @@ h2#page-subtitle {
     .container {
         display: flex;               /* Arrange items side-by-side */
         flex-wrap: wrap;             /* Wrap on smaller screens */
-        align-items: center;         /* Vertically align items */
+        align-items: left;
         gap: 20px;                   /* Space between items */
         max-width: 900px;
         margin: auto;                /* Center container */
         padding: 20px;
         border: 1px solid #ccc;
         border-radius: 8px;
-        background-color: #f9f9f9;
+        /*background-color: #f9f9f9;*/
     }
 
     /* Image styling */
@@ -101,7 +101,7 @@ h2#page-subtitle {
     /* Text styling */
     .text-content {
         flex: 1 1 300px;
-        font-family: Arial, sans-serif;
+        font-family: Calibri;
     }
 
     .text-content h2 {
