@@ -104,13 +104,23 @@ h2#page-subtitle {
  }
 
 /*some text animation capability*/
-@keyframes colorChange {
- from { color: #FF00FF; } /*more neutral green 008B8B*/
+/*@keyframes colorChange {
+ from { color: #FF00FF; }
  to { color: blue; }
+}*this works for 2 colors/
+
+@keyframes colorCycle {
+        0%   { color: #FF00FF; }  /*fuschia*/
+        20%  { color: blue; }
+        40%  { color: #ffff00; }  /*Yellow*/
+        60%  { color: #9400d3; }  /*dark violet*/
+        80%  { color: #32cd32; }  /*lime green*/
+        100% { color: #ff0000; }  /*back to fuschia*/
 }
 
 .booktitleanimation {
- animation-name: colorChange;
+ animation-name: colorCycle;
+ /*animation-name: colorChange;*/
  animation-duration: 2s;
  animation-iteration-count: infinite;
 }
