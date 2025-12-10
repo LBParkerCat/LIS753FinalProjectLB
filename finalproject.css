@@ -103,8 +103,9 @@ h2#page-subtitle {
  margin-bottom: 7px;
  }
 
+/*some text animation capability*/
 @keyframes colorChange {
- from { color: #008B8B; }
+ from { color: #FF00FF; } /*more neutral green 008B8B*/
  to { color: blue; }
 }
 
