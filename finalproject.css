@@ -119,10 +119,11 @@ h2#page-subtitle {
 }
 
 .booktitleanimation {
- animation-name: colorCycle;
+ animation: colorCycle 5s linear infinite;
+ /*animation-name: colorCycle;*/
  /*animation-name: colorChange;*/
- animation-duration: 5s;
- animation-iteration-count: infinite;
+ /*animation-duration: 5s;
+ animation-iteration-count: infinite;*/
 }
 
 /*.header img {
