@@ -107,7 +107,7 @@ h2#page-subtitle {
 /*@keyframes colorChange {
  from { color: #FF00FF; }
  to { color: blue; }
-}*this works for 2 colors/
+}this works for 2 colors*/
 
 @keyframes colorCycle {
         0%   { color: #FF00FF; }  /*fuschia*/
