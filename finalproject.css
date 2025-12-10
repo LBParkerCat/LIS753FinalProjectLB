@@ -84,7 +84,7 @@ h2#page-subtitle {
         gap: 5px;                   /* Space between items */
         max-width: 80% /*900px;*/
         /*margin: left; text picks up p styling?*/        
-        padding: 5px;
+        padding: 0px;
         /*border: 1px solid #ccc;
         border-radius: 8px;*/
         /*background-color: #f9f9f9;*/
@@ -92,11 +92,12 @@ h2#page-subtitle {
 
     /* Image styling */
     .container img {
-        max-width: 35%;
+        max-width: 45%;
         height: auto;
         border-radius: 5px;
         flex: 1 1 300px; /* Flexible width, min 300px */
-        float: right; 
+        float: right;
+        border: 2px solid black;
     }
 
     /* Text styling */
