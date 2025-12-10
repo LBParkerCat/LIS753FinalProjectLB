@@ -104,7 +104,7 @@ h2#page-subtitle {
  }
 
 /*experimenting with text animation*/
-*@keyframes colorChange {
+@keyframes colorChange {
  from { color: #FF00FF; }
  to { color: blue; }
 } /*I like this better*/
