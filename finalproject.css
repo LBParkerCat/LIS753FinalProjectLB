@@ -141,27 +141,6 @@ h2#page-subtitle {
  animation: colorChange 3s linear infinite;
 }
 
-/*.header img {
-  float: left;
-  width: 100px;
-  height: 100px;
-  background: #555;
-}
-
-.header h1 {
-  position: relative;
-  top: 18px;
-  left: 10px;
-}*/
-
-/*figure.LogoWBC img {
- float: right;
- max-width: 10%;
- height: auto;
- margin-left: 25px;
- padding: 5px;
-} I just didn't like the logo with the header*/
-
 figure.header-catandbooks img {
  float: right;
  max-width: 25%;
@@ -198,8 +177,7 @@ figure.dogreadingbook img {
   padding: 0px;
 }*/
 
-figure.KavClayDustJacket img {
-  /*float: right;*/
+/*figure.KavClayDustJacket img {
   max-width: 15%;
   height: auto;
   margin-left: 25px;
@@ -208,7 +186,7 @@ figure.KavClayDustJacket img {
   margin-bottom: 10px;
   border: 2px solid black;
   padding: 0px;
-}
+}*/
 
 /*figure.LessonsDustJacket img {
   float: right;
@@ -246,7 +224,7 @@ figure.littlewomenfilm img {
   padding: 0px;
 }
 
-/*heading styling for main*/
+/*heading styling for main section on pages*/
 h1 {
  font-family: Calibri;
  font-size: 25px;
@@ -277,7 +255,7 @@ h4 {
  font-style: italic;
  width: 75%;
  margin-left: 40px;
- }
+ } /*end of main section header styling*/
 
 header p {
  font-family: Calibri;
@@ -286,7 +264,7 @@ header p {
  margin-top: 15px;
  /*margin-left: 35px;*/
  /*text-align: left;*/
-} /*I don't think I need this one, superceded by the reg p*/
+} /*I don't think I need this one, superceded by the reg p, but nice to have if I want to do something different*/
 
 p {
   font-family: Calibri;
@@ -329,7 +307,7 @@ p {
 
 .menu-items .menu-items-opt a:hover {
  text-decoration: underline;
-}
+} /*end of top menu element styling*/
 
 /*styling for the lists in the main section of pages*/
 main ul li {
@@ -416,3 +394,27 @@ body.dark-mode {
   background: black;
   color: white;
 }
+
+/*THINGS I TRIED AND ENDED UP NOT USING BEYOND THIS POINT*/
+/*Tried working a logo into my header and didn't like it*/
+/*.header img {
+  float: left;
+  width: 100px;
+  height: 100px;
+  background: #555;
+}
+
+.header h1 {
+  position: relative;
+  top: 18px;
+  left: 10px;
+}*/
+
+/*figure.LogoWBC img {
+ float: right;
+ max-width: 10%;
+ height: auto;
+ margin-left: 25px;
+ padding: 5px;
+} end of header logo stuff*/
+
