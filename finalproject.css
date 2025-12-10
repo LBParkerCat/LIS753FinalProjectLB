@@ -96,7 +96,7 @@ h2#page-subtitle {
         height: auto;
         border-radius: 5px;
         flex: 1 1 300px; /* Flexible width, min 300px */
-        /*float: right;*/
+        float: left;
         border: 2px solid black;
     }
 
