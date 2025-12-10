@@ -118,7 +118,7 @@ h2#page-subtitle {
     .text-content p {
         width: auto;
         margin-top: 0px;
-        margin-left: 40px;
+        /*margin-left: 40px;*/
     }
 
 /*experimenting with text animation*/
