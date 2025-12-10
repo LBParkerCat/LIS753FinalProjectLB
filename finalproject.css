@@ -83,7 +83,8 @@ h2#page-subtitle {
         align-items: flex-start;
         gap: 0px;                 
         max-width: 75% /*900px;*/
-        margin: 40px;         
+        margin-left: 40px;
+        margin: 0px;         
         padding: 0px;
         /*border: 1px solid #ccc;
         border-radius: 8px;*/
