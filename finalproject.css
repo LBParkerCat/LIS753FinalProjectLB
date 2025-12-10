@@ -105,7 +105,7 @@ h2#page-subtitle {
 
 /*experimenting with text animation*/
 @keyframes colorChange {
- from { color: #FF00FF; }
+ from { color: #FF1493; } /*deep pink*/
  to { color: blue; }
 } /*I like this better*/
 
@@ -121,10 +121,6 @@ h2#page-subtitle {
 .booktitleanimation {
  /*animation: colorCycle 10s linear infinite;*/
  animation: colorChange 3s infinite;
- /*animation-name: colorCycle;*/
- /*animation-name: colorChange;*/
- /*animation-duration: 5s;
- animation-iteration-count: infinite;*/
 }
 
 /*.header img {
@@ -146,13 +142,13 @@ h2#page-subtitle {
  height: auto;
  margin-left: 25px;
  padding: 5px;
-}*/
+} I just didn't like the logo with the header*/
 
 figure.header-catandbooks img {
  float: right;
- max-width: 20%;
+ max-width: 25%;
  height: auto;
- margin-left: 30px; /*35%*/
+ margin-left: 25px;
  margin-top: 0px;
  margin-right: 150px;
  margin-bottom: 50px;
@@ -164,7 +160,7 @@ figure.dogreadingbook img {
   float: right;
   max-width: 15%;
   height: auto;
-  margin-left: 30px;
+  margin-left: 25px;
   margin-right: 150px;
   margin-top: 50px;
   margin-bottom: 35px;
@@ -176,7 +172,7 @@ figure.CirceDustJacket img {
   float: right;
   max-width: 12%;
   height: auto;
-  margin-left: 30px;
+  margin-left: 25px;
   margin-right: 200px;
   margin-top: 10px;
   margin-bottom: 35px;
@@ -188,7 +184,7 @@ figure.KavClayDustJacket img {
   /*float: right;*/
   max-width: 15%;
   height: auto;
-  margin-left: 30px;
+  margin-left: 25px;
   margin-right: 50px;
   margin-top: 5px;
   margin-bottom: 10px;
@@ -200,7 +196,7 @@ figure.LessonsDustJacket img {
   float: right;
   max-width: 12%;
   height: auto;
-  margin-left: 30px;
+  margin-left: 25px;
   margin-right: 100px;
   margin-top: 10px;
   margin-bottom: 35px;
@@ -212,7 +208,7 @@ figure.header-helloB img {
   float: right;
   max-width: 30%;
   height: auto;
-  margin-left: 30px;
+  margin-left: 25px;
   margin-right: 100px;
   margin-top: 10px;
   margin-bottom: 35px;
@@ -224,7 +220,7 @@ figure.littlewomenfilm img {
   float: right;
   max-width: 30%;
   height: auto;
-  margin-left: 30px;
+  margin-left: 25px;
   margin-right: 100px;
   margin-top: 10px;
   margin-bottom: 35px;
@@ -232,7 +228,7 @@ figure.littlewomenfilm img {
   padding: 0px;
 }
 
-/*need class to do this with less code*/ 
+/*heading styling for main*/
 h1 {
  font-family: Calibri;
  font-size: 25px;
@@ -264,20 +260,6 @@ h4 {
  width: 75%;
  margin-left: 40px;
  }
-
-/*h5 {
- font-family: Calibri;
- font-size: 25px;
- font-style: italic;
- width: 75%;
- }
-
-h6 {
- font-family: Calibri;
- font-size: 25px;
- font-style: italic;
- width: 75%;
- }*/
 
 header p {
  font-family: Calibri;
@@ -331,16 +313,12 @@ p {
  text-decoration: underline;
 }
 
+/*styling for the lists in the main section of pages*/
 main ul li {
   font-family: Calibri;
   font-size: 20px;
   margin-left: 40px;
 }
-
-/*main ul li a {
-  font-family: Calibri;
-  font-size: 20px;
-}*/
 
 /*styling for the footer elements*/
 footer nav ul {
