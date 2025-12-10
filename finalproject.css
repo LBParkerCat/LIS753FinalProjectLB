@@ -103,11 +103,11 @@ h2#page-subtitle {
  margin-bottom: 7px;
  }
 
-/*some text animation capability*/
-/*@keyframes colorChange {
+/*experimenting with text animation*/
+*@keyframes colorChange {
  from { color: #FF00FF; }
  to { color: blue; }
-}this works for 2 colors*/
+} /*I like this better*/
 
 @keyframes colorCycle {
         0%   { color: #FF00FF; }  /*fuschia*/
@@ -116,10 +116,11 @@ h2#page-subtitle {
         60%  { color: #9400d3; }  /*dark violet*/
         80%  { color: #32cd32; }  /*lime green*/
         100% { color: #ff0000; }  /*back to fuschia*/
-}
+} /*maybe it's the colors I chose but this didn't look all that great*/
 
 .booktitleanimation {
- animation: colorCycle 10s linear infinite;
+ /*animation: colorCycle 10s linear infinite;*/
+ animation: colorChange 3s infinite;
  /*animation-name: colorCycle;*/
  /*animation-name: colorChange;*/
  /*animation-duration: 5s;
