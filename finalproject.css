@@ -80,8 +80,8 @@ h2#page-subtitle {
     .container {
         display: flex;               /* Arrange items side-by-side */
         flex-wrap: wrap;             /* Wrap on smaller screens */
-        align-items: left;
-        gap: 5px;                   /* Space between items */
+        align-items: flex-start;
+        gap: 0px;                   /* Space between items */
         max-width: 80% /*900px;*/
         /*margin: left; text picks up p styling?*/        
         padding: 0px;
@@ -98,13 +98,15 @@ h2#page-subtitle {
         flex: 1 1 300px; /* Flexible width, min 300px */
         float: left;
         border: 2px solid black;
+        margin: 0;
     }
 
     /* Text styling */
     .text-content {
         flex: 1 1 300px;
         font-family: Calibri;
-        float: left;
+        /*float: left;*/
+        margin: 0;
     }
 
     /*.text-content h2 {
