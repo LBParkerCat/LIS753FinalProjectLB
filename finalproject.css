@@ -83,7 +83,7 @@ h2#page-subtitle {
         align-items: flex-start;
         gap: 0px;                 
         max-width: 75% /*900px;*/
-        margin-left: 40px;
+        /*margin-left: 40px;*/
         margin: 0px;         
         padding: 0px;
         /*border: 1px solid #ccc;
@@ -118,7 +118,7 @@ h2#page-subtitle {
     .text-content p {
         width: auto;
         margin-top: 0px;
-        margin-left: 0px;
+        margin-left: 40px;
     }
 
 /*experimenting with text animation*/
