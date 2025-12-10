@@ -82,8 +82,8 @@ h2#page-subtitle {
         flex-wrap: wrap;             
         align-items: flex-start;
         gap: 0px;                 
-        max-width: 80% /*900px;*/
-        /*margin: left; text picks up p styling?*/        
+        max-width: 75% /*900px;*/
+        margin: 40px;         
         padding: 0px;
         /*border: 1px solid #ccc;
         border-radius: 8px;*/
