@@ -76,6 +76,44 @@ h2#page-subtitle {
  margin-bottom: 7px;
  }
 
+/* General container styling */
+    .container {
+        display: flex;               /* Arrange items side-by-side */
+        flex-wrap: wrap;             /* Wrap on smaller screens */
+        align-items: center;         /* Vertically align items */
+        gap: 20px;                   /* Space between items */
+        max-width: 900px;
+        margin: auto;                /* Center container */
+        padding: 20px;
+        border: 1px solid #ccc;
+        border-radius: 8px;
+        background-color: #f9f9f9;
+    }
+
+    /* Image styling */
+    .container img {
+        max-width: 100%;
+        height: auto;
+        border-radius: 8px;
+        flex: 1 1 300px; /* Flexible width, min 300px */
+    }
+
+    /* Text styling */
+    .text-content {
+        flex: 1 1 300px;
+        font-family: Arial, sans-serif;
+    }
+
+    .text-content h2 {
+        margin-top: 0;
+        color: #333;
+    }
+
+    .text-content p {
+        line-height: 1.6;
+        color: #555;
+    }
+
 /*experimenting with text animation*/
 @keyframes colorChange {
  from { color: #FF1493; } /*deep pink*/
