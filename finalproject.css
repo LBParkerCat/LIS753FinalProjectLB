@@ -285,7 +285,7 @@ p {
  justify-content: flex-start;
  gap: 60px;
  font-weight: bold;
- background-color: #fffcc4; /*#fffab1;*/
+ background-color: #f8f8ff /*ghost white*/ /*#fffcc4 yellow;*/ /*#fffab1; not sure*/
  list-style: none;
  padding: 0;
  border-top: 2px solid black;
@@ -326,7 +326,7 @@ footer nav ul {
  display: flex;
  justify-content: flex-start;
  gap: 60px;
- background-color: #fffcc4;
+ background-color: #f8f8ff /*ghost white*/;
  list-style: none;
  padding: 5px;
  border-top: 2px solid black;
