@@ -34,7 +34,7 @@ h1#mainpage-title img {
  margin-right: 25px;
  border: 2px solid #00008B;
  padding: 0px;
-}
+} /*I didn't like my logo so I removed it...keeping this styling but removing for other title pages*/
 
 h1#aboutuspage-title {
  color: #00008B;
@@ -46,15 +46,6 @@ h1#aboutuspage-title {
  margin-bottom: 5px;
  }
 
-h1#aboutuspage-title img {
- /*float: right;*/
- max-width: 7%;
- height: auto;
- margin-left: 25px;
- margin-right: 25px;
- padding: 0px;
-}
-
 h1#greatestpage-title {
  color: #00008B;
  font-family: Calibri;
@@ -64,15 +55,6 @@ h1#greatestpage-title {
  text-align: center;
  margin-bottom: 5px;
  }
-
-h1#greatestpage-title img {
- /*float: right;*/
- max-width: 7%;
- height: auto;
- margin-left: 25px;
- margin-right: 25px;
- padding: 0px;
-}
 
 h1#obocpage-title {
  color: #00008B;
@@ -84,18 +66,9 @@ h1#obocpage-title {
  margin-bottom: 5px;
  }
 
-h1#obocpage-title img {
- /*float: right;*/
- max-width: 7%;
- height: auto;
- margin-left: 25px;
- margin-right: 25px;
- padding: 0px;
-}
-
 h2#page-subtitle {
  color: #008B8B;
- font-family: Kristen ITC; /*this is a fun font*/
+ font-family: Kristen ITC; /*this is a fun font so using again*/
  font-size: 25px;
  font-style: italic;
  width: 75%;
@@ -107,7 +80,7 @@ h2#page-subtitle {
 @keyframes colorChange {
  from { color: #FF1493; } /*deep pink*/
  to { color: blue; }
-} /*I like this better*/
+} /*I like this better than colorCycle*/
 
 @keyframes colorCycle {
         0%   { color: #FF00FF; }  /*fuschia*/
