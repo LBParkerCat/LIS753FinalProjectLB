@@ -121,7 +121,7 @@ h2#page-subtitle {
 .booktitleanimation {
  animation-name: colorCycle;
  /*animation-name: colorChange;*/
- animation-duration: 2s;
+ animation-duration: 5s;
  animation-iteration-count: infinite;
 }
 
