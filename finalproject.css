@@ -92,11 +92,11 @@ h2#page-subtitle {
 
     /* Image styling */
     .container img {
-        max-width: 45%;
+        max-width: 50%;
         height: auto;
         border-radius: 5px;
         flex: 1 1 300px; /* Flexible width, min 300px */
-        float: right;
+        /*float: right;*/
         border: 2px solid black;
     }
 
