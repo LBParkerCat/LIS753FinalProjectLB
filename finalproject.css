@@ -121,6 +121,21 @@ h2#page-subtitle {
         margin-left: 40px;
     }
 
+.CirceDustJacket img {
+  max-width: 50%
+  height: auto;
+}
+
+.KavClayDustJacket img {
+  max-width: 50%
+  height: auto;
+}
+
+.LessonsDustJacket img {
+  max-width: 50%
+  height: auto;
+}
+
 /*experimenting with text animation*/
 @keyframes colorChange {
  from { color: #FF1493; } /*deep pink*/
