@@ -86,9 +86,9 @@ h2#page-subtitle {
         /*margin-left: 40px;*/
         margin: 0 /*auto;*/         
         padding: 0;
-        border: 1px solid #ccc
+        /*border: 1px solid #ccc
         border-radius: 8px;
-        background-color: #f9f9f9;
+        background-color: #f9f9f9; border and background good for debugging*/
     }
 
     /* Image styling */
