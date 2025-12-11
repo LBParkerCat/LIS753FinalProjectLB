@@ -93,11 +93,10 @@ h2#page-subtitle {
 
     /* Image styling */
     .container img {
-        /*max-width: 35%;*/
+        max-width: 35%;
         height: auto;
         border-radius: 5px;
         flex: 1 1 300px; /* Flexible width, min 300px */
-        /*float: left;*/
         border: 2px solid black;
         margin: 0;
     }
@@ -121,18 +120,23 @@ h2#page-subtitle {
         margin-left: 40px;
     }
 
+figure.dogreadingbook img {
+  max-width: 50%;
+  height: auto;
+}
+
 figure.CirceDustJacket img {
-  max-width: 60%
+  max-width: 40%
   height: auto;
 }
 
 .KavClayDustJacket img {
-  max-width: 60%
+  max-width: 50%
   height: auto;
 }
 
 .LessonsDustJacket img {
-  max-width: 60%
+  max-width: 40%
   height: auto;
 }
 
