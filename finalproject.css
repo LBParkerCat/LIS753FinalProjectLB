@@ -81,11 +81,11 @@ h2#page-subtitle {
         display: flex;               
         flex-wrap: wrap;             
         align-items: flex-start;
-        gap: 0px;                 
+        gap: 5px;                 
         max-width: 75%;
         margin-left: 40px;
-        margin: 0px;         
-        padding: 0px;
+        margin: 0 auto;         
+        padding: 0;
         border: 1px solid #ccc
         border-radius: 8px;
         background-color: #f9f9f9;
