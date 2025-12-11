@@ -172,7 +172,7 @@ figure.header-catandbooks img {
  padding: 0px; /*I don't like padding with a border*/
 }
 
-figure.dogreadingbook img {
+/*figure.dogreadingbook img {
   float: right;
   max-width: 15%;
   height: auto;
@@ -182,7 +182,7 @@ figure.dogreadingbook img {
   margin-bottom: 35px;
   border: 2px solid black;
   padding: 0px;
-}
+}*/
 
 /*figure.CirceDustJacket img {
   float: right;
