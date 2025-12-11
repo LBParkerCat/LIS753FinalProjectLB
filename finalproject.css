@@ -93,7 +93,7 @@ h2#page-subtitle {
 
     /* Image styling */
     .container img {
-        max-width: 35%;
+        /*max-width: 35%;*/
         height: auto;
         border-radius: 5px;
         flex: 1 1 300px; /* Flexible width, min 300px */
@@ -172,8 +172,8 @@ figure.dogreadingbook img {
   float: right;
   max-width: 15%;
   height: auto;
-  margin-left: 25px;
-  margin-right: 150px;
+  margin-left: 0px;
+  margin-right: 300px;
   margin-top: 50px;
   margin-bottom: 35px;
   border: 2px solid black;
