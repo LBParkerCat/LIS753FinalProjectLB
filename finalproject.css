@@ -121,18 +121,18 @@ h2#page-subtitle {
         margin-left: 40px;
     }
 
-.CirceDustJacket img {
-  max-width: 50%
+figure.CirceDustJacket img {
+  max-width: 60%
   height: auto;
 }
 
 .KavClayDustJacket img {
-  max-width: 50%
+  max-width: 60%
   height: auto;
 }
 
 .LessonsDustJacket img {
-  max-width: 50%
+  max-width: 60%
   height: auto;
 }
 
