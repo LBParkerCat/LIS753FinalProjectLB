@@ -121,17 +121,17 @@ h2#page-subtitle {
     }
 
 figure.dogreadingbook img {
-  max-width: 50%;
+  max-width: 40%;
   height: auto;
 }
 
 figure.CirceDustJacket img {
-  max-width: 40%
+  max-width: 45%
   height: auto;
 }
 
 .KavClayDustJacket img {
-  max-width: 50%
+  max-width: 55%
   height: auto;
 }
 
@@ -162,7 +162,7 @@ figure.CirceDustJacket img {
 
 figure.header-catandbooks img {
  float: right;
- max-width: 25%;
+ max-width: 20%;
  height: auto;
  margin-left: 25px;
  margin-top: 0px;
