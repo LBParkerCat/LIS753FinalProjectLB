@@ -125,6 +125,11 @@ figure.dogreadingbook img {
   height: auto;
 }
 
+figure.birdsonbranch img {
+  max-width: 40%;
+  height: auto;
+}
+
 figure.CirceDustJacket img {
   max-width: 45%
   height: auto;
