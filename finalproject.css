@@ -177,6 +177,18 @@ figure.header-catandbooks img {
  padding: 0px; /*I don't like padding with a border*/
 }
 
+figure.header-ternsonbeach img {
+ float: right;
+ max-width: 25%;
+ height: auto;
+ margin-left: 25px;
+ margin-top: 0px;
+ margin-right: 150px;
+ margin-bottom: 50px;
+ border: 2px solid black;
+ padding: 0px; /*I don't like padding with a border*/
+}
+
 /*figure.dogreadingbook img {
   float: right;
   max-width: 15%;
